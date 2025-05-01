@@ -1,0 +1,21 @@
+{
+    "description": "Here you can check my main, side and soft skills. 📚",
+    "tech_skills": "Tech Skills",
+    "soft_skills": "Soft Skills",
+    "communication": "Communication",
+    "teamwork": "Teamwork",
+    "self_learning": "Self Learning",
+    "self_motivation": "Self Motivation",
+    "self_management": "Self Management",
+    "problem_solving": "Problem Solving",
+    "time_management": "Time Management",
+    "responsibility": "Responsibility",
+    "soft_skills_des": "As a developer, I have collaborated with multicultural and multidisciplinary teams, both locally and remotely. I've gained strong communication skills through working directly with clients and understanding their technical and business needs.",
+    "other_tech": "I have also worked with other technologies that are not part of my daily stack but with which I have some experience, such as Java, Cobol, Python, and SQL/NoSQL databases.",
+    "pre_backend": "I have experience building and maintaining backend platforms and working with databases, especially using .NET Core, AWS Lambda functions, and MongoDB.",
+    "main_skills": "My main skills are in web development, especially frontend. I have solid experience with: Angular, Vue, and .NET Core.",
+    "complementary": "Complementary Skills",
+    "complementary_cont": "I also have experience with writing structured content in both English and Spanish, which helps in documenting code, writing clear specifications, and communicating ideas effectively in technical environments.",
+    "mindshop_essay": "I'm studying philosophy to improve my argumentative and writing skills. You can read one of my philosophy essays published in Mindshop",
+    "here": "clicking here."
+}

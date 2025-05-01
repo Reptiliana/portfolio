@@ -1,0 +1,21 @@
+{
+    "description": "Aquí puedes revisar mis habilidades principales, secundarias y blandas. 📚",
+    "tech_skills": "Habilidades Técnicas",
+    "soft_skills": "Habilidades Blandas",
+    "communication": "Comunicación",
+    "teamwork": "Trabajo en Equipo",
+    "self_learning": "Autoaprendizaje",
+    "self_motivation": "Automotivación",
+    "self_management": "Autogestión",
+    "problem_solving": "Resolución de Problemas",
+    "time_management": "Gestión del Tiempo",
+    "responsibility": "Responsabilidad",
+    "soft_skills_des": "Como desarrolladora, he colaborado con equipos multiculturales y multidisciplinarios, tanto de forma local como remota. He desarrollado sólidas habilidades de comunicación al trabajar directamente con clientas y clientes, y comprender sus necesidades técnicas y comerciales.",
+    "other_tech": "También he trabajado con otras tecnologías que no forman parte de mi stack diario pero con las que tengo experiencia, como Java, Cobol, Python y bases de datos SQL/NoSQL.",
+    "pre_backend": "Tengo experiencia construyendo y dando soporte a plataformas backend, así como trabajando con bases de datos, especialmente usando .NET Core, funciones Lambda en AWS y MongoDB.",
+    "main_skills": "Mis habilidades principales están en el desarrollo web, especialmente en frontend. Tengo experiencia sólida con: Angular, Vue y .NET Core.",
+    "complementary": "Habilidades Complementarias",
+    "complementary_cont": "También tengo experiencia escribiendo contenido estructurado en inglés y español, lo que ayuda a documentar código, redactar especificaciones claras y comunicar ideas de forma efectiva en entornos técnicos.",
+    "mindshop_essay": "Estoy estudiando filosofía para mejorar mis habilidades argumentativas y de escritura. Puedes leer uno de mis ensayos de filosofía publicado en Mindshop",
+    "here": "haciendo clic aquí."
+}
