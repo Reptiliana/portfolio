@@ -14,7 +14,7 @@
 	const my_links = [
 		{
 			name: 'Github',
-			url: 'https://github.com/ReptReptil',
+			url: 'https://github.com/Reptiliana',
 			icon: AiFillGithub
 		}
 	];
