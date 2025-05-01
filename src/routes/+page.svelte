@@ -112,7 +112,7 @@
 	<div class="section" style="margin-top: 2em;">
 		<p>{$t('home.like', {default: 'I'})} ❤️</p>
 		<article style="text-align: center;">
-			{$t('home.like2', {default: 'Coding 💻, Learning 🧠, Philosophy 📚, Photography 📷 and Kickboxing 🥋'})}
+			{$t('home.like2', {default: 'Coding 💻, Learning 🧠, Philosophy 📚, Photography 📷 Kickboxing 🥋'})}
 		</article>
 	</div>
 	<div class="section" style="margin-top: 2em;">

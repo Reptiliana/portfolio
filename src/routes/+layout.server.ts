@@ -18,7 +18,7 @@ export const load = ({url}: any) => {
       return "Know more about my skills and the technologies I use, as well as the things I'm learning. -Reptil Ruiz";
     }
 
-    return "Reptil Ruiz - JS Developer"
+    return "Reptil Ruiz - Fullstack Developer"
   };
 
   console.log(parts);
