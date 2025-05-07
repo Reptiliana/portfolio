@@ -23,15 +23,15 @@
 <svelte:head>
 	<title>Reptil Ruiz</title>
 	<meta name="description" content="I'm a web developer, Angular, NetCore, AWS" />
-	<meta name="keywords" content="Reptil Ruiz, web developer, mobile developer, frontend developer, react native, nextjs, nodejs, react, javascript, typescript" />
+	<meta name="keywords" content="Reptil Ruiz, web developer, frontend developer, angular, nodejs, react, javascript, typescript" />
 	<meta name="author" content="Reptil Ruiz" />
 	<meta name="robots" content="index, follow" />
 	<meta name="googlebot" content="index, follow" />
 	<meta name="google" content="nositelinkssearchbox" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-	<meta property="og:image" content="https://res.cloudinary.com/dpc15/image/upload/v1677558025/DALL_E_2023-02-27_22.19.58_-_Digital_art_of_a_brain_that_is_programming_it_s_made_of_lines_of_code_and_looks_very_techy_and_cyberpunk_ysigrz.png" />
-	<meta property="og:image:secure_url" content="https://res.cloudinary.com/dpc15/image/upload/v1677558025/DALL_E_2023-02-27_22.19.58_-_Digital_art_of_a_brain_that_is_programming_it_s_made_of_lines_of_code_and_looks_very_techy_and_cyberpunk_ysigrz.png" />
+	<meta property="og:image" content="https://res.cloudinary.com/dgontkzbf/image/upload/v1746657964/2da52f96-cd3c-4576-ab4c-9a46fad29d2a_jcybhp.jpg" />
+	<meta property="og:image:secure_url" content="https://res.cloudinary.com/dgontkzbf/image/upload/v1746657964/2da52f96-cd3c-4576-ab4c-9a46fad29d2a_jcybhp.jpg" />
 	<meta property="og:image:alt" content="Reptil Ruiz" />
 	<meta property="og:image:type" content="image/png" />
 	<meta property="og:image:width" content="520" />
@@ -40,12 +40,12 @@
 	<!-- twitter card -->
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Reptil Ruiz" />
-	<meta name="twitter:description" content="I'm a web and mobile developer, specialized in frontend, mostly with NextJs and React Native" />
-	<meta name="twitter:image" content="https://res.cloudinary.com/dpc15/image/upload/v1677558025/DALL_E_2023-02-27_22.19.58_-_Digital_art_of_a_brain_that_is_programming_it_s_made_of_lines_of_code_and_looks_very_techy_and_cyberpunk_ysigrz.png" />
+	<meta name="twitter:description" content="I'm a full-stack developer, mostly with Angular and .Net" />
+	<meta name="twitter:image" content="https://res.cloudinary.com/dgontkzbf/image/upload/v1746657964/2da52f96-cd3c-4576-ab4c-9a46fad29d2a_jcybhp.jpg" />
 
 	<!-- facebook card -->
 	<meta property="og:title" content="Reptil Ruiz" />
-	<meta property="og:description" content="I'm a web and mobile developer, specialized in frontend, mostly with NextJs and React Native" />
+	<meta property="og:description" content="I'm a full-stack developer, mostly with Angular and .Net" />
 	<meta property="og:url" content="https://my-portfolio-mocha-ten.vercel.app/" />
 	<meta property="og:site_name" content="Reptil Ruiz" />
 	<meta property="og:type" content="website" />
@@ -112,7 +112,7 @@
 	<div class="section" style="margin-top: 2em;">
 		<p>{$t('home.like', {default: 'I'})} ❤️</p>
 		<article style="text-align: center;">
-			{$t('home.like2', {default: 'Coding 💻, Learning 🧠, Philosophy 📚, Photography 📷 Kickboxing 🥋'})}
+			{$t('home.like2', {default: 'Coding 💻, Learning 🧠, Philosophy 📚, Kickboxing 🥋'})}
 		</article>
 	</div>
 	<div class="section" style="margin-top: 2em;">
