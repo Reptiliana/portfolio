@@ -245,7 +245,7 @@ const works: Work[] = [
 		assets: [
 			{
 				type: 'icon',
-				url: 'https://res.cloudinary.com/dpc15/image/upload/v1672170514/portfolio/brainrap_nrddd6.png'
+				url: 'https://res.cloudinary.com/dgontkzbf/image/upload/v1746657964/2da52f96-cd3c-4576-ab4c-9a46fad29d2a_jcybhp.jpg'
 			}
 		],
 		url: 'https://www.youtube.com/watch?v=ys6zv33P8KY',
