@@ -21,10 +21,10 @@
 </script>
 
 <svelte:head>
-	<title>Reptil Ruiz</title>
+	<title>Reptiliana</title>
 	<meta name="description" content="I'm a web developer, Angular, NetCore, AWS" />
-	<meta name="keywords" content="Reptil Ruiz, web developer, frontend developer, angular, nodejs, react, javascript, typescript" />
-	<meta name="author" content="Reptil Ruiz" />
+	<meta name="keywords" content="Reptiliana, web developer, frontend developer, angular, nodejs, react, javascript, typescript" />
+	<meta name="author" content="Reptiliana" />
 	<meta name="robots" content="index, follow" />
 	<meta name="googlebot" content="index, follow" />
 	<meta name="google" content="nositelinkssearchbox" />
@@ -32,22 +32,22 @@
 
 	<meta property="og:image" content="https://res.cloudinary.com/dgontkzbf/image/upload/v1746657964/2da52f96-cd3c-4576-ab4c-9a46fad29d2a_jcybhp.jpg" />
 	<meta property="og:image:secure_url" content="https://res.cloudinary.com/dgontkzbf/image/upload/v1746657964/2da52f96-cd3c-4576-ab4c-9a46fad29d2a_jcybhp.jpg" />
-	<meta property="og:image:alt" content="Reptil Ruiz" />
+	<meta property="og:image:alt" content="Reptiliana" />
 	<meta property="og:image:type" content="image/png" />
 	<meta property="og:image:width" content="520" />
 	<meta property="og:image:height" content="520" />
 
 	<!-- twitter card -->
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Reptil Ruiz" />
+	<meta name="twitter:title" content="Reptiliana" />
 	<meta name="twitter:description" content="I'm a full-stack developer, mostly with Angular and .Net" />
 	<meta name="twitter:image" content="https://res.cloudinary.com/dgontkzbf/image/upload/v1746657964/2da52f96-cd3c-4576-ab4c-9a46fad29d2a_jcybhp.jpg" />
 
 	<!-- facebook card -->
-	<meta property="og:title" content="Reptil Ruiz" />
+	<meta property="og:title" content="Reptiliana" />
 	<meta property="og:description" content="I'm a full-stack developer, mostly with Angular and .Net" />
 	<meta property="og:url" content="https://my-portfolio-mocha-ten.vercel.app/" />
-	<meta property="og:site_name" content="Reptil Ruiz" />
+	<meta property="og:site_name" content="Reptiliana" />
 	<meta property="og:type" content="website" />
 
 	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
@@ -55,12 +55,12 @@
 <ContentWrapper>
 	<div class="content-header">
 		<div>
-			<Title text="Reptil Ruiz" />
+			<Title text="Reptiliana" />
 			<Subtitle text="Angular / .NET Core / AWS" />
 		</div>
 		<img			
 			style="object-fit: cover;"
-			class="shadow" src="pp_1.webp" alt="Reptil Ruiz" />
+			class="shadow" src="pp_1.webp" alt="Reptiliana" />
 	</div>
 
 	<div class="section" style="margin-top: 2em; position: relative">

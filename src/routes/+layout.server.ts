@@ -7,18 +7,18 @@ export const load = ({url}: any) => {
 
   const getDescription = (parts: string[]) => {
     if (parts[0] === 'Work' && parts.length > 1) {
-      return 'Know more about my responsabilities as a developer in ' + parts[1] + ' -Reptil Ruiz';
+      return 'Know more about my responsabilities as a developer in ' + parts[1] + ' -Reptiliana';
     }
 
     if (parts[0] === 'Work') {
-      return 'Know more about my responsabilities as a developer, a list of my projects and the technologies I used. -Reptil Ruiz';
+      return 'Know more about my responsabilities as a developer, a list of my projects and the technologies I used. -Reptiliana';
     }
 
     if (parts[0] === 'Skills') {
-      return "Know more about my skills and the technologies I use, as well as the things I'm learning. -Reptil Ruiz";
+      return "Know more about my skills and the technologies I use, as well as the things I'm learning. -Reptiliana";
     }
 
-    return "Reptil Ruiz - Fullstack Developer"
+    return "Reptiliana - Fullstack Developer"
   };
 
   console.log(parts);
